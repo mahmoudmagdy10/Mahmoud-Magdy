@@ -7,11 +7,11 @@
 
 ## 🚀 About Me  
 🔹 **Experience:** 1.5 years in Full Stack Development  
-🔹 **Back-end:** .NET Core, C#, ASP.NET, Entity Framework  
-🔹 **Front-end:** JavaScript, React.js, HTML, CSS  
+🔹 **Back-end:** .NET Core, C#, LINQ, Entity Framework  
+🔹 **Front-end:** JavaScript, Angular, HTML, CSS  
 🔹 **Database:** SQL Server, T-SQL  
-🔹 **Tools & DevOps:** Git, Docker, CI/CD Pipelines  
-🔹 **Other Skills:** RESTful APIs, Microservices, Unit Testing  
+🔹 **Tools & DevOps:** Git, CI/CD Pipelines  
+🔹 **Other Skills:** RESTful APIs
 
 ---
 
@@ -23,8 +23,5 @@
 ✅ Continuously learn and explore **new technologies**  
 
 ---
-
-## 📫 Connect with Me  
-🌐 [Portfolio](#) | 💼 [LinkedIn](#) | 🐦 [Twitter](#)  
 
 Feel free to explore my repositories and collaborate on projects! 🚀  
