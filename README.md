@@ -1,5 +1,5 @@
 # Mahmoud-Magdy
-# 💻 Full Stack Developer | .NET Core Enthusiast
+# 💻 Full Stack Developer | .NET
 
 ### Hi there! 👋 I'm a Full Stack Developer with **1.5 years** of experience in designing, developing, and maintaining web applications. Passionate about building scalable and efficient solutions, I specialize in **.NET Core**, modern front-end frameworks, and database optimization.
 
